@@ -51,6 +51,6 @@ If you come across any other issue, or if you could improve this extension pleas
 -   Added CI Pipeline
 -   Updated Known Limitation in README
 
-### 0.0.3
+### 0.0.4
 
 -   bump @vscode/vsce - dev dependency

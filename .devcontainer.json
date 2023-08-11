@@ -5,6 +5,7 @@
 	"customizations": {},
 	"postStartCommand": {
 		"fix-permissions": "git config --global --add safe.directory /workspaces/vscode-toggle-terminal",
-		"install-dependencies": "npm install"
+		"install-dependencies": "npm install",
+		"install-vsce": "npm install -g @vscode/vsce"
 	}
 }
